@@ -1,0 +1,41 @@
+[
+	{
+		"item_id":"T4_2H_FIRESTAFF",
+		"city":"Black Market",
+		"quality":1,
+		"sell_price_min":0,
+		"sell_price_min_date":"0001-01-01T00:00:00",
+		"sell_price_max":0,
+		"sell_price_max_date":"0001-01-01T00:00:00",
+		"buy_price_min":11648,
+		"buy_price_min_date":"2019-09-03T10:39:00",
+		"buy_price_max":11648,
+		"buy_price_max_date":"2019-09-03T10:39:00"
+	},
+	{
+		"item_id":"T4_2H_FIRESTAFF",
+		"city":"Black Market",
+		"quality":2,
+		"sell_price_min":0,
+		"sell_price_min_date":"0001-01-01T00:00:00",
+		"sell_price_max":0,
+		"sell_price_max_date":"0001-01-01T00:00:00",
+		"buy_price_min":8064,
+		"buy_price_min_date":"2019-09-03T10:38:00",
+		"buy_price_max":11648,
+		"buy_price_max_date":"2019-09-03T10:38:00"
+	},
+	{
+		"item_id":"T4_2H_FIRESTAFF",
+		"city":"Black Market",
+		"quality":3,
+		"sell_price_min":0,
+		"sell_price_min_date":"0001-01-01T00:00:00",
+		"sell_price_max":0,
+		"sell_price_max_date":"0001-01-01T00:00:00",
+		"buy_price_min":3136,
+		"buy_price_min_date":"2019-09-03T10:39:00",
+		"buy_price_max":3136,
+		"buy_price_max_date":"2019-09-03T10:39:00"
+	}
+]
